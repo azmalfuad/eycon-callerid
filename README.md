@@ -49,5 +49,5 @@ Follow these steps to get Eycon Caller ID Search running locally or online.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/eycon-callerid.git
+git clone https://github.com/azmalfuad/eycon-callerid.git
 cd eycon-callerid
